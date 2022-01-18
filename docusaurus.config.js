@@ -6,15 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'HCI Open Book',
+  tagline: 'All the things you need',
+  url: 'https://kiesman99.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'kiesman99', // Usually your GitHub org/user name.
+  projectName: 'hci-open-book', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
