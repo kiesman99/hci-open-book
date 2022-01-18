@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhci_open_book=self.webpackChunkhci_open_book||[]).push([[437],{4705:function(o){o.exports=JSON.parse('{"allTagsPath":"/hci-open-book/blog/tags","slug":"/hci-open-book/blog/tags/facebook","name":"facebook","count":1,"permalink":"/hci-open-book/blog/tags/facebook"}')}}]);
