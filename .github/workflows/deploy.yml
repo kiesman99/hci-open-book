@@ -17,6 +17,8 @@ jobs:
       - name: Build website
         working-directory: .
         run: |
+          ls -lah
+          pwd
           npm ci
           npm run build
 
