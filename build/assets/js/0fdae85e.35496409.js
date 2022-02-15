@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhci_open_book=self.webpackChunkhci_open_book||[]).push([[387],{9118:function(o){o.exports=JSON.parse('{"allTagsPath":"/hci-open-book/blog/tags","slug":"/hci-open-book/blog/tags/hola","name":"hola","count":1,"permalink":"/hci-open-book/blog/tags/hola"}')}}]);

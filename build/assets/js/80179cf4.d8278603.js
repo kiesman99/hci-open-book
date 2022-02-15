@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhci_open_book=self.webpackChunkhci_open_book||[]).push([[293],{770:function(o){o.exports=JSON.parse('{"permalink":"/hci-open-book/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

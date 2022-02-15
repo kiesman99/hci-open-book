@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhci_open_book=self.webpackChunkhci_open_book||[]).push([[803],{649:function(o){o.exports=JSON.parse('{"allTagsPath":"/hci-open-book/blog/tags","slug":"/hci-open-book/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/hci-open-book/blog/tags/docusaurus"}')}}]);
