@@ -16,6 +16,9 @@ const config = {
   organizationName: 'kiesman99', // Usually your GitHub org/user name.
   projectName: 'hci-open-book', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  plugins: [
+    require.resolve('docusaurus-lunr-search')
+  ],
   presets: [
     [
       'classic',
