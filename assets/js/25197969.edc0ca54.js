@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhci_open_book=self.webpackChunkhci_open_book||[]).push([[73],{7915:function(o){o.exports={blogPosts:[]}}}]);
