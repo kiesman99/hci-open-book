@@ -9,7 +9,7 @@ const config = {
   title: 'HCI Open Book',
   tagline: 'All the things you need',
   url: 'https://kiesman99.github.io',
-  baseUrl: '/',
+  baseUrl: '/hci-open-books/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
