@@ -2,36 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This should be a collection of HCI-Related stuff for the exame
 
-Does it work?
+Here some tips to get you started
 
-## Getting Started
+## Requirements
 
-Get started by **creating a new site**.
+- git
+- node >= 14.x
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Add Documentation
 
-## Generate a new site
+Head over to the [github page](https://github.com/kiesman99/hci-open-book) of this documentation, create a [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of the repo, make a branch and submit a Pull-Request to my GitHub project.
 
-Generate a new Docusaurus site using the **classic template**:
+The Documentation should be located in `docs/your-folder/*.md` and the file-format of the documentation should be in [Markdown](https://commonmark.org/) as it is really easy!
 
-```shell
-npm init docusaurus@latest my-website classic
+## Test your Page
+
+Run the following in a terminal:
+
+```
+npm install
 ```
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
+```
+npm run start
 ```
 
-Your site starts at `http://localhost:3000`.
+Now head over to [http://localhost:3000/hci-open-book/docs/intro](http://localhost:3000/hci-open-book/docs/intro).
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+## Search
+
+This website features a Search-Bar in the upper right corner.

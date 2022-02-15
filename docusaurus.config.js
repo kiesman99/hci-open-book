@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'HCI Open Book',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -56,10 +56,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Open-Book',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kiesman99/hci-open-book',
             label: 'GitHub',
             position: 'right',
           },
