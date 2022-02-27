@@ -1,6 +1,8 @@
 # Design Prinzip
 
-## Prinzip 1: Erlernbarkeit
+## Prinzipien für die Benutzbarkeit
+
+### Prinzip 1: Erlernbarkeit
 
 Das Prinzip Erlernbarkeit beschreibt, wie einfach es ist für einen neuen Benutzer / eine neue Benutzerin eine effek?ve Nutzung eines Systems zu beginnen und maximale Performance zu erreichen.
 
@@ -23,7 +25,7 @@ Das Prinzip Erlernbarkeit beschreibt, wie einfach es ist für einen neuen Benutz
 - Konsistenz
   - Wahrscheinlichkeit von Input/Output Verhalten basierend ähnlichen Situationen oder Aufgabenzielen.
 
-## Prinzip 2: Flexibilität
+### Prinzip 2: Flexibilität
 
 Es gibt unterschiedliche Wege, wie der End-User und das System Informationen austauschen können.
 
@@ -46,7 +48,7 @@ Es gibt unterschiedliche Wege, wie der End-User und das System Informationen aus
 - Customizability
   - Modifizieren des UI
 
-## Prinzip 3: Robustheit
+### Prinzip 3: Robustheit
 
 Ein robustes System unterstützt Nutzer\*innen darin, ihre Ziele erfolgreich zu erreichen und zu bewerten.
 
@@ -66,7 +68,7 @@ Ein robustes System unterstützt Nutzer\*innen darin, ihre Ziele erfolgreich zu 
   - Wie der Nutzer / die Nutzerin die Kommunikationsrate mit dem System wahrnimmt
   - Präferiert: kurze Dauer (100 ms) und sofortige Antworten
 
-# 8 Goldene Regeln
+## 8 Goldene Regeln
 
 1. Sorge für Konsistenz
 2. Strebe nach universeller Bedienbarkeit
